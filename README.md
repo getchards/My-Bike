@@ -17,8 +17,8 @@ Easy-to-use setup for rapid development.<br>
 Instructions to Run the Project Locally
 
 **To run this project locally, follow these steps:**<br>
-1. Clone the repository: **git clone https://github.com/getchards/My-Bike.git**<br>
-2. Navigate to the project directory: **cd My-Bike**<br>
+1. Clone the repository: **-git clone https://github.com/getchards/My-Bike.git**<br>
+2. Navigate to the project directory: **-cd My-Bike**<br>
 3. Install the dependencies:
-Make sure you have Node.js installed, then run: **npm install**<br>
-4. Run the development server: **npm run dev**
+Make sure you have Node.js installed, then run: **-npm install**<br>
+4. Run the development server: **-npm run dev**
