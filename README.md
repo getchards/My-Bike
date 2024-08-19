@@ -3,7 +3,8 @@
 **Project Description**
 This project is a base layout template designed to streamline front-end development using modern web technologies. The template includes a fully configured build system using Gulp, with support for SCSS for styling and Stylelint for maintaining code quality. This setup is ideal for creating responsive and maintainable web layouts.
 
-You can view the live demo of the project **[here](https://getchards.github.io/My-Bike/).**
+- **Demo Link**: You can view the live demo of the project [here](https://getchards.github.io/My-Bike/).
+- **Design**: Check out the design mockups and wireframes [here]((https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=6YNqLsQ411BO9TSK-0)).
 
 **Technologies Used**<br>
 **HTML5**: For structuring the content of the web pages.<br>
